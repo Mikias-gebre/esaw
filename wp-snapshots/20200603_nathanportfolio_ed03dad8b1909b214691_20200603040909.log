@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 3 June 2020 4:09 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.34
+WORDPRESS:	5.4.1
+PHP INFO:	7.4.2 | SAPI: apache2handler
+SERVER:		Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.2 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 12MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20200603_nathanportfolio_ed03dad8b1909b214691_20200603040909_database.sql
+SQL FILE SIZE: 1.58MB (1661015)
+SQL FILE TIME: 2020-06-03 04:09:23
+SQL RUNTIME: 1.45 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/nathan
+ARCHIVE FILE: 20200603_nathanportfolio_ed03dad8b1909b214691_20200603040909_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	96.23MB
+STATS:	Dirs 627 | Files 3,953
+SQL ADDED: 20200603_nathanportfolio_ed03dad8b1909b214691_20200603040909_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4580
+    [filename] => C:\xampp\htdocs\nathan\wp-snapshots\tmp\20200603_nathanportfolio_ed03dad8b1909b214691_20200603040909_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4579
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 37.7MB
+ARCHIVE RUNTIME: 19.18 sec.
+MEMORY STACK: 12MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/nathan/wp-snapshots/tmp/20200603_nathanportfolio_ed03dad8b1909b214691_20200603040909_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.58MB
+INSTALLER FILE: 61.32KB
+ARCHIVE FILE: 39.18MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,580
+ACTUAL FILE/DIRECTORY COUNT: 4,579
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 22.79 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20200603_nathanportfolio 3 June 2020 4:09 am
+
